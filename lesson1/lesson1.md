@@ -204,19 +204,18 @@
 
 - <, >, <=, >=
 - height < minimumHeight
-- mySecretNumber === yourGuess
+- mySecretNumber == yourGuess
 - !=
-- == vs. ===
 
 ### Try it out! (Page 33)
 
 ---
 
-## PG-13 Movie Theater Example!
+## You should be in school if it's a weekday, and you are not on vacation!
 
-### var age = 12;
-### var accompanied = false;
-### var allowed = ...
+### var day = "Monday";
+### var vacation = false;
+### var shouldBeInSchool = ...
 
 ---
 
