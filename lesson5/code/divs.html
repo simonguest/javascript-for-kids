@@ -1,0 +1,25 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My First Web Page</title>
+    <script>
+   
+    var showSentence = function(){
+    	document.getElementById("name").style.visibility = "visible";
+    };
+
+    var hideSentence = function(){
+        document.getElementById("name").style.visibility = "hidden";
+    };
+
+    </script>
+</head>
+<body>
+	<h1>My First Web Page</h1>
+
+	<button onclick="showSentence()">Show sentence</button>
+    <button onclick="hideSentence()">Hide sentence</button>
+
+    <h1 id="name">Hello Class!</h1>
+</body>
+</html>
