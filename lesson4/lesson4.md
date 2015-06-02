@@ -8,7 +8,7 @@
 
 ---
 
-# _Lesson 3_
+# _Lesson 4_
 - Recap of Lesson 3 (Objects)
 - HTML
 -- Creating your first HTML Page
